@@ -26,3 +26,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamesahil&layout=compact&theme=tokyonight" />
 </p>
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamesahil&theme=tokyonight" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lamesahil&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
