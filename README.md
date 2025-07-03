@@ -14,7 +14,7 @@
 - 📷 Instagram: [@lamesahil](https://instagram.com/lamesahil)
 - 🐍 GitHub: [@lamesahil](https://github.com/lamesahil)
 - 📬 Gmail: iamsahilt20@gmail.com
-- 🔗 LinkedIn: Sahil Tiwari(https://www.linkedin.com/in/sahil-tiwari-33715433b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+- 🔗 LinkedIn: [SahilTiwari](https://www.linkedin.com/in/sahil-tiwari-33715433b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 ## 📊 GitHub Stats
 
