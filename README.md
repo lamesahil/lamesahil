@@ -2,7 +2,7 @@
 
 ## 🔥 About Me:
 - 🎓 Learning Python & C++
-- 🧠 Solving DSA & building projects
+- 🧠 Learning & Solving DSA & building projects
 - 💻 Passionate about learning new things
 
 ## 🚀 Projects:
@@ -13,4 +13,4 @@
 ## 📫 Connect with me:
 - 📷 Instagram: [@lamesahil](https://instagram.com/lamesahil)
 - 🐍 GitHub: [@lamesahil](https://github.com/lamesahil)
-- 📬 Gmail: [iamsahilt20@gmail.com]
+- 📬 Gmail: iamsahilt20@gmail.com
