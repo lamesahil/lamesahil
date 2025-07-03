@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Sahil!
 
-<!--
-**lamesahil/lamesahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 About Me:
+- 🎓 Learning Python & C++
+- 🧠 Solving DSA & building projects
+- 💻 Passionate about learning new things
 
-Here are some ideas to get you started:
+## 🚀 Projects:
+- ✅ Rock Paper Scissors Game
+- ✅ Number Guessing Game
+- 🔄 More uploading soon...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me:
+- 📷 Instagram: [@lamesahil](https://instagram.com/lamesahil)
+- 🐍 GitHub: [@lamesahil](https://github.com/lamesahil)
+- 📬 Gmail: [iamsahilt20@gmail.com]
