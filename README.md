@@ -23,10 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lamesahil&show_icons=true&theme=tokyonight" alt="Sahil's GitHub stats" />
 </p>
 
-![Python](https://img.shields.io/badge/Code-Python-blue)
-![HTML](https://img.shields.io/badge/Code-HTML-orange)
-![JavaScript](https://img.shields.io/badge/Code-JS-yellow)
-
 ## 💻 Languages Used
 
 <p align="center">
