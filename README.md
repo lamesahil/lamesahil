@@ -3,7 +3,7 @@
 ## 🔥 About Me:
 - 🎓 Learning C++
 - 🧠 Learning & Solving DSA & building projects
-- 💻 Passionate about learning new things
+- 💻 I am FY B.E. I.T. Student at TCET.
 
 ## 🚀 Projects:
 - ✅ Rock Paper Scissors Game
