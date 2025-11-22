@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sahil!
 
 ## 🔥 About Me:
-- 🎓 Learning Python & C++
+- 🎓 Learning C++
 - 🧠 Learning & Solving DSA & building projects
 - 💻 Passionate about learning new things
 
