@@ -5,7 +5,7 @@ I am an aspiring software engineer currently mastering **C++** and **Data Struct
 
 - 🔭 **I’m currently working on:** My [C++ DSA Journey](https://github.com/lamesahil/CPP-Journey)
 - 🌱 **I’m currently learning:** Advanced Data Structures, OOPs, and Competitive Programming
-- 🎮 **Fun fact:** I'm into gaming (Pokemon/Horror) and coding logic for games.
+- 🎮 **Fun fact:** I love football and playing games.
 
 ---
 
