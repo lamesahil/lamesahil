@@ -1,5 +1,5 @@
 ### Hi there, I'm Sahil Tiwari! 👋
-**First-Year B.E. IT Student @ TCET, Mumbai | Aspiring Full-Stack Engineer**
+**Second-Year B.E. IT Student @ TCET, Mumbai | Aspiring Full-Stack Engineer**
 
 I am an aspiring software engineer currently balancing my love for core problem solving with modern web development. Whether it's optimizing logic in **C++ / DSA** or building interactive applications on the web, I love getting my hands dirty with code. 
 
